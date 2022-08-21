@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Singh
 - 👀 I'm currently working in Tech Mahindra as a Associate Software Engineer.
 - 🌱 I’m currently doing DevOPS Certification Training.
-- 💞️ I’m currently looking explore more in Cloud Computing and DevOps.
+- 💞️ I’m currently looking to explore more in Cloud Computing and DevOps.
 - 📫 How to reach me ...
 - aman73650@gmail.com
 
